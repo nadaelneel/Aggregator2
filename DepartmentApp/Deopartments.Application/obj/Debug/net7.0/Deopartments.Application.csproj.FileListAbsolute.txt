@@ -1,0 +1,17 @@
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\bin\Debug\net7.0\Deopartments.Application.deps.json
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\bin\Debug\net7.0\Deopartments.Application.dll
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\bin\Debug\net7.0\Deopartments.Application.pdb
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\bin\Debug\net7.0\Departments.Data.dll
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\bin\Debug\net7.0\Departments.Infrastracture.dll
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\bin\Debug\net7.0\Departments.Infrastracture.pdb
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\bin\Debug\net7.0\Departments.Data.pdb
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\obj\Debug\net7.0\Deopartments.Application.csproj.AssemblyReference.cache
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\obj\Debug\net7.0\Deopartments.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\obj\Debug\net7.0\Deopartments.Application.AssemblyInfoInputs.cache
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\obj\Debug\net7.0\Deopartments.Application.AssemblyInfo.cs
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\obj\Debug\net7.0\Deopartments.Application.csproj.CoreCompileInputs.cache
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\obj\Debug\net7.0\Deopartments.Application.csproj.CopyComplete
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\obj\Debug\net7.0\Deopartments.Application.dll
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\obj\Debug\net7.0\refint\Deopartments.Application.dll
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\obj\Debug\net7.0\Deopartments.Application.pdb
+D:\4Expalin\aggregrator\DepartmentApp\Deopartments.Application\obj\Debug\net7.0\ref\Deopartments.Application.dll

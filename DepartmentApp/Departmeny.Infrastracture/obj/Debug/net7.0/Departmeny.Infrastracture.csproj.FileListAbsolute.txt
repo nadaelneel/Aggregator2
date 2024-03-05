@@ -1,0 +1,5 @@
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departmeny.Infrastracture.csproj.AssemblyReference.cache
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departmeny.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departmeny.Infrastracture.AssemblyInfoInputs.cache
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departmeny.Infrastracture.AssemblyInfo.cs
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departmeny.Infrastracture.csproj.CoreCompileInputs.cache

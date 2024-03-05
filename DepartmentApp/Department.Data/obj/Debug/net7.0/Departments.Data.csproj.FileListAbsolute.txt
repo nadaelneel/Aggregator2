@@ -1,0 +1,11 @@
+D:\4Expalin\aggregrator\DepartmentApp\Department.Data\bin\Debug\net7.0\Departments.Data.deps.json
+D:\4Expalin\aggregrator\DepartmentApp\Department.Data\bin\Debug\net7.0\Departments.Data.dll
+D:\4Expalin\aggregrator\DepartmentApp\Department.Data\bin\Debug\net7.0\Departments.Data.pdb
+D:\4Expalin\aggregrator\DepartmentApp\Department.Data\obj\Debug\net7.0\Departments.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\4Expalin\aggregrator\DepartmentApp\Department.Data\obj\Debug\net7.0\Departments.Data.AssemblyInfoInputs.cache
+D:\4Expalin\aggregrator\DepartmentApp\Department.Data\obj\Debug\net7.0\Departments.Data.AssemblyInfo.cs
+D:\4Expalin\aggregrator\DepartmentApp\Department.Data\obj\Debug\net7.0\Departments.Data.csproj.CoreCompileInputs.cache
+D:\4Expalin\aggregrator\DepartmentApp\Department.Data\obj\Debug\net7.0\Departments.Data.dll
+D:\4Expalin\aggregrator\DepartmentApp\Department.Data\obj\Debug\net7.0\refint\Departments.Data.dll
+D:\4Expalin\aggregrator\DepartmentApp\Department.Data\obj\Debug\net7.0\Departments.Data.pdb
+D:\4Expalin\aggregrator\DepartmentApp\Department.Data\obj\Debug\net7.0\ref\Departments.Data.dll

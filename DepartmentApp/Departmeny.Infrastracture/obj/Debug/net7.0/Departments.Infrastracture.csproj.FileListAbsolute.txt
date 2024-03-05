@@ -1,0 +1,17 @@
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\bin\Debug\net7.0\Departments.Infrastracture.deps.json
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\bin\Debug\net7.0\Departments.Infrastracture.runtimeconfig.json
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\bin\Debug\net7.0\Departments.Infrastracture.dll
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\bin\Debug\net7.0\Departments.Infrastracture.pdb
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\bin\Debug\net7.0\Departments.Data.dll
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\bin\Debug\net7.0\Departments.Data.pdb
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departments.Infrastracture.csproj.AssemblyReference.cache
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departments.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departments.Infrastracture.AssemblyInfoInputs.cache
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departments.Infrastracture.AssemblyInfo.cs
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departments.Infrastracture.csproj.CoreCompileInputs.cache
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departments.Infrastracture.csproj.CopyComplete
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departments.Infrastracture.dll
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\refint\Departments.Infrastracture.dll
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departments.Infrastracture.pdb
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\Departments.Infrastracture.genruntimeconfig.cache
+D:\4Expalin\aggregrator\DepartmentApp\Departmeny.Infrastracture\obj\Debug\net7.0\ref\Departments.Infrastracture.dll

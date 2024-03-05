@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="google\api\annotation.proto" />
+    <None Remove="google\api\http.proto" />
+    <None Remove="Protos\UserItem.proto" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.9.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.0" />
+    <PackageReference Include="Grpc.AspNetCore" Version="2.61.0" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\User.Data\User.Data.csproj" />
+    <ProjectReference Include="..\User.Infrastracture\User.Infrastracture.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="google\api\annotation.proto" />
+    <Protobuf Include="google\api\http.proto" />
+    <Protobuf Include="Protos\UserItem.proto" GrpcServices="Server" />
+	  
+  </ItemGroup>
+
+</Project>

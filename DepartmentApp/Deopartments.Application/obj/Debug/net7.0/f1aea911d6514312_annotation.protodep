@@ -1,0 +1,3 @@
+obj\Debug\net7.0\google\api/Annotation.cs: google/api/http.proto\
+ C:/Users/Mega Store/.nuget/packages/grpc.tools/2.62.0/build/native/include/google/protobuf/descriptor.proto\
+ google/api/annotation.proto

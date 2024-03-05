@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="google\api\annotation.proto" />
+    <None Remove="google\api\http.proto" />
+    <None Remove="Protos\DepartmentItem.proto" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Grpc.AspNetCore" Version="2.61.0" />
+    <PackageReference Include="Grpc.AspNetCore.Server.Reflection" Version="2.61.0" />
+    <PackageReference Include="Grpc.Tools" Version="2.62.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="MediatR" Version="12.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Departmeny.Infrastracture\Departments.Infrastracture.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="google\api\annotation.proto" GrpcServices="Both" />
+    <Protobuf Include="google\api\http.proto" />
+    <Protobuf Include="Protos\DepartmentItem.proto" GrpcServices="Server" />
+  </ItemGroup>
+
+</Project>
